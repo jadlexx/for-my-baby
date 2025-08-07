@@ -73,7 +73,7 @@ body::before {
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   touch-action: auto;
-  font-size: 14px;
+  font-size: 20px;
   color: #d6336c;
   line-height: 1.6;
   z-index: 1;
@@ -121,6 +121,7 @@ body::before {
   background-color: #ff80ab;
   border-radius: 10px;
 }
+
 
 
 
