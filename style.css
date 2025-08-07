@@ -30,8 +30,8 @@ body::before {
 
 .envelope {
   position: relative;
-  width: 400px;
-  height: 300px;
+  width: 500px;
+  height: 400px;
   background-color: #ffb3bf;
   border-radius: 15px;
   overflow: hidden;
@@ -121,5 +121,6 @@ body::before {
   background-color: #ff80ab;
   border-radius: 10px;
 }
+
 
 
